@@ -264,7 +264,7 @@ footer{
     height:400px;
     background-color:#DBDBDB ;
 }
-@media (min-width:346px){
+@media (min-width:500px){
     footer{
         display: flex;
         flex-direction: row;
